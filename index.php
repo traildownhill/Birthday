@@ -197,10 +197,10 @@ footer {
     <div id="card-inside">
       <div class="wrap">
         <p>Hi,</p>
-        <p>“Happy Happy Birthday jimu Jhzanna, uhmm wish for you eh, aran angu mangyari am mavidin ka dapat MAVID 😂😂, Ma stress kapava tantud kumadivun saya dimu haha, ulay mulng saw, basta be Happy and Happy birthday!</p>
-        <p>Kulang jaya mananaya HAHAHAHA char.
-        </p>
-        <p>always.</p>
+        <!-- <p>“Happy Happy Birthday jimu Jhzanna, uhmm wish for you eh, aran angu mangyari am mavidin ka dapat MAVID 😂😂, Ma stress kapava tantud kumadivun saya dimu haha, ulay mulng saw, basta be Happy and Happy birthday!</p>
+        <p>Kulang jaya mananaya HAHAHAHA char.</p> -->
+        <p>Happy Happy Birthday Jhzanna, MBTC 🎁🎉🥂..  Welcome to the 20's😂 Aravaw message ku dimu manaru HAHA, basta MAKAPSEK KANA</p>
+        <!-- <p>always.</p> -->
         <p>Enjoy your Day . Stay Blessed and Happy . Keep Smiling Always:)</p>
         
         <center><h4>from</h4></center>
