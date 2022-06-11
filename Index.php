@@ -16,7 +16,7 @@
         <p>Enjoy your Day . Stay Blessed and Happy . Keep Smiling Always:)</p>
         
         <center><h4>from</h4></center>
-        <p class="signed">Mr. J</p>
+        <p class="signed">Jaren</p>
         
       </div>
     </div>
